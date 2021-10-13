@@ -1,9 +1,11 @@
-
-footer{
-  background-color: #343a40;
-  color: white;
-  margin: 0px;
-  width: 100%;
-  height: 100px;
-  padding:20px
+footer {
+    background-color: #163f6e;
+    color: white;
+    margin: 0px;
+    width: 100%;
+    height: 100px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
